@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: simple-banking-service
+
+  profiles:
+    active: local
